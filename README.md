@@ -1,4 +1,5 @@
 # Implementation of Univariate Linear Regression
+## DATE:27.10.2023
 ## Aim:
 To implement univariate Linear Regression to fit a straight line using least squares.
 ## Equipment’s required:
@@ -35,10 +36,8 @@ print(Y_pred)
 plt.scatter(X,Y)
 plt.plot(X,Y_pred,color='orange')
 plt.show()
-
 ```
 ## Output
 ![image](https://github.com/gpavana/Univariate-Linear-Regression/assets/118787343/b350c143-15e9-4516-9924-1abc1e9c4878)
-
 ## Result
 Thus the univariate Linear Regression was implemented to fit a straight line using least squares.
